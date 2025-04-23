@@ -1,7 +1,10 @@
+import { Products } from "./components/Products";
+import { products } from "./mocks/products.json";
+
 function App() {
   return (
     <>
-      <h1 className="">Hello</h1>
+      <Products products={products} />
     </>
   );
 }

@@ -1,1 +1,19 @@
 @import "tailwindcss";
+
+@theme {
+  --color-background: rgb(17, 24, 39);
+
+  --color-primary: rgb(56, 189, 248);
+
+  --color-secondary: rgb(167, 139, 250);
+
+  --color-text: rgb(243, 244, 246);
+
+  --color-text-secondary: rgb(156, 163, 175);
+
+  --color-accent: rgb(236, 72, 153);
+
+  --color-surface: rgb(31, 41, 55);
+
+  --color-border: rgb(55, 65, 81);
+}
